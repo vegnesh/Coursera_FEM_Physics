@@ -1,0 +1,8 @@
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/debug.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/distclean.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/info.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/main2b.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/release.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/run.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/runclean.dir
+/home/ubuntu/Desktop/FEM/CA2_template/CA2_template/CA2b/CMakeFiles/strip_comments.dir

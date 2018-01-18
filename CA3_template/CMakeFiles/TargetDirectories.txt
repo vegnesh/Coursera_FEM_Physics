@@ -1,0 +1,8 @@
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/debug.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/distclean.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/info.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/main3.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/release.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/run.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/runclean.dir
+/home/ubuntu/Desktop/FEM/CA3_template/CMakeFiles/strip_comments.dir

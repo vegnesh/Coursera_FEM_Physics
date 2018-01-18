@@ -1,0 +1,6 @@
+The code run for this course require deal II library and HDF5 library. 
+
+A virtual machine was provided for the course with the libraries preinstalled. 
+
+The virtual machine can be downloaded at 
+http://www.math.clemson.edu/~heister/dealvm/
